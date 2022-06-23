@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp schoo hello
+chgrp schoo ./hello
